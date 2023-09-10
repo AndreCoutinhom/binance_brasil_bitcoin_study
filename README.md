@@ -10,6 +10,8 @@
 
 </h1>
 
+https://unsplash.com/pt-br/fotografias/iGYiBhdNTpE
+
 Neste repositório, organizo algumas informações importantes sobre teorias de investimento em criptomoedas, com foco em Bitcoins. Como principal base para essas teorias, utilizarei como fonte de dicas, aconselhamentos e orientações das corretoras de criptomoedas Binance e Brasil Bitcoin.
 
 ###
