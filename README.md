@@ -27,3 +27,5 @@ O repositório tem a função de organizar registros de documentos bibliográfic
 Escolhi as corretoras Binance e Brasil Bitcoin pela afinidade que possuo com suas plataformas. Ambas possuem um teor educativo muito forte, além de uma transparência em relação ao funcionamento de seu sistema e do mercado em que estão situadas. Além disso, as corretoras disponibilizam APIs abertas ao público, o que torna possível desenvolver processos automatizados para as transações.
 
 ###
+
+## Binance  <img align="center" alt="lab" height="55" width="55" src="https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png">
