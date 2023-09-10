@@ -1,6 +1,11 @@
 <h1 align="center">
   <img align="center" alt="lab" height="55" width="55" src="https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png">
 
+<img align="center" alt="lab" height="55" width="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotB8ROG3b0jcXQtEnNSAj8i8oLgugk4ezFg&usqp=CAU">
+
+
+
+
 💱 Criptomoedas com Brasil Bitcoin e Binance 💱
 
 </h1>
