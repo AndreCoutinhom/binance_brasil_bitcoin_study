@@ -11,10 +11,9 @@
 </h1>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.artstation.com/artwork/qQ4y5D" target="_blank"><img align="center" width="867" height="492" alt="voice_translator" src="https://unsplash.com/pt-br/fotografias/iGYiBhdNTpE"></a>
+  <a href="https://unsplash.com/pt-br/fotografias/iGYiBhdNTpE" target="_blank"><img align="center" width="867" height="492" alt="bitcoin" src="https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3J5cHRvY3VycmVuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60"></a>
   </div> 
 
-https://unsplash.com/pt-br/fotografias/iGYiBhdNTpE
 
 Neste repositório, organizo algumas informações importantes sobre teorias de investimento em criptomoedas, com foco em Bitcoins. Como principal base para essas teorias, utilizarei como fonte de dicas, aconselhamentos e orientações das corretoras de criptomoedas Binance e Brasil Bitcoin.
 
