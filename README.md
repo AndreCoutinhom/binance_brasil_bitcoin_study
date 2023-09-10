@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" alt="lab" height="55" width="55" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
 
-💱 Criptomoedas com Brasil Bitcoin e Binance 
+💱 Criptomoedas com Brasil Bitcoin e Binance 💱
 
 </h1>
 
