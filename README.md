@@ -30,4 +30,8 @@ Escolhi as corretoras Binance e Brasil Bitcoin pela afinidade que possuo com sua
 
 ## Binance  <img align="center" alt="lab" height="35" width="35" src="https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png">
 
+
+
+  <a href="https://github.com/Ai-Austin" target="_blank"><img align="center" height="37" width="123" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple" target="_blank"></a>
+
 A Binance é uma corretora de criptomoedas, sendo a plataforma com maior volume mundial diário de negociação de criptomoedas desde 2017.
