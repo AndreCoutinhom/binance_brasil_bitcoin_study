@@ -43,7 +43,7 @@ Fundada pelo chinês Changpeng Zhao, desenvolvedor que já havia participado da 
 
 ##
 
-#### Changpeng Zhao
+#### Changpeng Zhao 👨‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Changpeng" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQE3e-WfDNxcnw/profile-displayphoto-shrink_800_800/0/1516287993172?e=1700092800&v=beta&t=hvkFSsKXhZ-rutHfmzevCCFEsc2YD7eo5vl-i2gJiZ0">
   
@@ -82,9 +82,14 @@ Respeitamos o seu tempo, respeitamos o seu dinheiro. Por isso, cobramos as menor
 
 ##
 
-#### Marco Vinicius Castellari
+#### Marco Vinicius Castellari 🎮
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQFwOGU6J40GHA/profile-displayphoto-shrink_800_800/0/1645029360189?e=1700092800&v=beta&t=JS2yke4gZFNbhjhvr_zinzkNhurWKY3pQ8oSyi7JAbU">
   
 <a href="https://www.linkedin.com/in/mvcastellari/" target="_blank"><img align="center" height="48" width="180" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+Marco Castellari começou a Brasil Bitcoin durante seus estudos de engenharia mecânica e se sustentou por meio da negociação de criptomoedas com um amigo.
+
+###
+
+Marco e seu amigo decidiram criar sua própria exchange de criptomoedas no Brasil devido à insatisfação com as opções existentes.
