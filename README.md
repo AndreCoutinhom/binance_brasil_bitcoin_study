@@ -31,7 +31,7 @@ Escolhi as corretoras Binance e Brasil Bitcoin pela afinidade que possuo com sua
 
 ## Binance  <img align="center" alt="lab" height="35" width="35" src="https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png">
 
-<img align="center" alt="lab" height="492" width="867" src="https://github.com/AndreCoutinhom/binance_brasil_bitcoin_study/assets/91290799/d6d1b1b3-beeb-42e6-bb5e-5b7b3b84bf61">
+![Binance](https://github.com/AndreCoutinhom/binance_brasil_bitcoin_study/assets/91290799/f2154c1b-f01e-4ecd-9c83-447e986c79e1)
 
 ###
 
@@ -67,7 +67,13 @@ Em 2017, Zhao deixou a OKCoin para iniciar uma troca de criptomoedas chamada Bin
 
 ## Brasil Bitcoin <img align="center" alt="lab" height="55" width="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotB8ROG3b0jcXQtEnNSAj8i8oLgugk4ezFg&usqp=CAU">
 
+![Brasil Bitcoin](https://github.com/AndreCoutinhom/binance_brasil_bitcoin_study/assets/91290799/3f216917-5653-4be8-a81e-cc0b12eff7a9)
+
+###
+
   <a href="https://github.com/brbtcoficial" target="_blank"><img align="center" height="37" width="123" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue" target="_blank"></a>
+
+##
 
 #### Descrição do Site Oficial:
 Nascemos em fevereiro de 2018 com o objetivo de oferecer um melhor serviço em relação às corretoras já existentes no mercado sem cobrar a mais por isso, pelo contrário, oferecendo a melhor taxa do mercado brasileiro, pois valorizamos o seu dinheiro. Nossa plataforma foi desenvolvida do zero e com muito carinho, para que todas as tarefas exijam a menor quantidade de cliques possíveis, pois sabemos que o seu tempo vale muito.
