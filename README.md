@@ -45,9 +45,8 @@ A Binance é uma corretora de criptomoedas, sendo a plataforma com maior volume 
 
 Fundada pelo chinês Changpeng Zhao, desenvolvedor que já havia participado da criação de outros softwares de negociação de bens digitais, a Binance mudou sua sede para fora da China (onde inicialmente operava) após a crescente regulamentação do governo chinês sobre criptomoedas.
 
-##
 
-#### Changpeng Zhao 👨‍💻
+## Changpeng Zhao 👨‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Changpeng" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQE3e-WfDNxcnw/profile-displayphoto-shrink_800_800/0/1516287993172?e=1700092800&v=beta&t=hvkFSsKXhZ-rutHfmzevCCFEsc2YD7eo5vl-i2gJiZ0">
   
@@ -75,7 +74,7 @@ Em 2017, Zhao deixou a OKCoin para iniciar uma troca de criptomoedas chamada Bin
 
 ##
 
-#### Descrição do Site Oficial:
+### Descrição do Site Oficial:
 Nascemos em fevereiro de 2018 com o objetivo de oferecer um melhor serviço em relação às corretoras já existentes no mercado sem cobrar a mais por isso, pelo contrário, oferecendo a melhor taxa do mercado brasileiro, pois valorizamos o seu dinheiro. Nossa plataforma foi desenvolvida do zero e com muito carinho, para que todas as tarefas exijam a menor quantidade de cliques possíveis, pois sabemos que o seu tempo vale muito.
 
 ###
@@ -90,9 +89,8 @@ Transparência gera credibilidade e confiança, esses são os nossos pilares. Po
 
 Respeitamos o seu tempo, respeitamos o seu dinheiro. Por isso, cobramos as menores taxas do mercado e construímos a plataforma para que você precise realizar a menor quantidade de cliques possíveis para negociar.
 
-##
 
-#### Marco Vinicius Castellari 🎮
+## Marco Vinicius Castellari 🎮
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQFwOGU6J40GHA/profile-displayphoto-shrink_800_800/0/1645029360189?e=1700092800&v=beta&t=JS2yke4gZFNbhjhvr_zinzkNhurWKY3pQ8oSyi7JAbU">
   
@@ -103,3 +101,7 @@ Marco Castellari começou a Brasil Bitcoin durante seus estudos de engenharia me
 ###
 
 Marco e seu amigo decidiram criar sua própria exchange de criptomoedas no Brasil devido à insatisfação com as opções existentes.
+
+## The Video 📽️
+
+* [Summary](video_summary.md)
