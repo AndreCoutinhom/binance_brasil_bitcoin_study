@@ -104,4 +104,4 @@ Marco e seu amigo decidiram criar sua própria exchange de criptomoedas no Brasi
 
 ## The Video 📽️
 
-* [Summary](Brasil_Bitcoin/video_summary.md)
+* [Summary](Brasil%20Bitcoin/video_summary.md)
