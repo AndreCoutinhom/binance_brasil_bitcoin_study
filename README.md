@@ -31,7 +31,8 @@ Escolhi as corretoras Binance e Brasil Bitcoin pela afinidade que possuo com sua
 
 ## Binance  <img align="center" alt="lab" height="35" width="35" src="https://user-images.githubusercontent.com/12424618/54043975-b6cdb800-4182-11e9-83bd-0cd2eb757c6e.png">
 
-![Binance](https://github.com/AndreCoutinhom/binance_brasil_bitcoin_study/assets/91290799/f2154c1b-f01e-4ecd-9c83-447e986c79e1)
+![Binance](binance_website%20(2).gif)
+
 
 ###
 
@@ -66,7 +67,7 @@ Em 2017, Zhao deixou a OKCoin para iniciar uma troca de criptomoedas chamada Bin
 
 ## Brasil Bitcoin <img align="center" alt="lab" height="55" width="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotB8ROG3b0jcXQtEnNSAj8i8oLgugk4ezFg&usqp=CAU">
 
-
+![Brasil Bitcoin](brasilbitcoin_website.gif)
 
 ###
 
