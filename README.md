@@ -66,7 +66,7 @@ Em 2017, Zhao deixou a OKCoin para iniciar uma troca de criptomoedas chamada Bin
 
 ## Brasil Bitcoin <img align="center" alt="lab" height="55" width="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotB8ROG3b0jcXQtEnNSAj8i8oLgugk4ezFg&usqp=CAU">
 
-![Brasil Bitcoin](https://github.com/AndreCoutinhom/binance_brasil_bitcoin_study/assets/91290799/3f216917-5653-4be8-a81e-cc0b12eff7a9)
+
 
 ###
 
