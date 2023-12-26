@@ -49,7 +49,7 @@ Fundada pelo chinês Changpeng Zhao, desenvolvedor que já havia participado da 
 
 ## Changpeng Zhao 👨‍💻
 <div style="display: inline_block"><br>
-  <img align="center" alt="Changpeng" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQE3e-WfDNxcnw/profile-displayphoto-shrink_800_800/0/1516287993172?e=1700092800&v=beta&t=hvkFSsKXhZ-rutHfmzevCCFEsc2YD7eo5vl-i2gJiZ0">
+  <img align="center" alt="Changpeng" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQE3e-WfDNxcnw/profile-displayphoto-shrink_200_200/0/1516287993713?e=1709164800&v=beta&t=RflJozQqbtpd2oxzgXSheDvzI_KsqrZLuGgR-VN2BAg">
   
 <a href="https://www.linkedin.com/in/cpzhao/" target="_blank"><img align="center" height="48" width="180" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
@@ -93,7 +93,7 @@ Respeitamos o seu tempo, respeitamos o seu dinheiro. Por isso, cobramos as menor
 
 ## Marco Vinicius Castellari 🎮
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marco" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQFwOGU6J40GHA/profile-displayphoto-shrink_800_800/0/1645029360189?e=1700092800&v=beta&t=JS2yke4gZFNbhjhvr_zinzkNhurWKY3pQ8oSyi7JAbU">
+  <img align="center" alt="Marco" height="180" width="180" src="https://media.licdn.com/dms/image/C4E03AQFwOGU6J40GHA/profile-displayphoto-shrink_200_200/0/1645029360639?e=1709164800&v=beta&t=aaZTHgQJur3O7O6azJJgky7juTPmy-tP7HiESWryYxA">
   
 <a href="https://www.linkedin.com/in/mvcastellari/" target="_blank"><img align="center" height="48" width="180" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
